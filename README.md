@@ -15,6 +15,8 @@ A team workspace for Code Institute Hackathon #42, Cupid’s Code Quest.
 
 ## Getting started
 
+Git is required for the clone command below.
+
 Clone the workspace to inspect or develop it:
 
 ```bash
